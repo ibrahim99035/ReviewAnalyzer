@@ -1,0 +1,5 @@
+1- Make sure to install Django first using the command: "pip install django"
+2- in this path open cms, powershell, or git bash.
+3- run the command: "python manage.py runserver"
+4- go to the localhost ip: "http://127.0.0.1:8000/"
+5- Write your review and get the prediction.
