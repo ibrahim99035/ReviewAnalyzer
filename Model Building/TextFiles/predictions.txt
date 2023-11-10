@@ -1,0 +1,39 @@
+Statement: I absolutely loved the movie! It was captivating from start to finish.
+Predicted Sentiment: positive
+--------------------
+Statement: The acting in the film was outstanding. Each character delivered a remarkable performance.
+Predicted Sentiment: positive
+--------------------
+Statement: The cinematography was lackluster and uninspiring. The visuals did not add anything to the overall experience.
+Predicted Sentiment: positive
+--------------------
+Statement: This is the best romantic comedy I have ever seen. It made me laugh and cry.
+Predicted Sentiment: positive
+--------------------
+Statement: The soundtrack of the film was awful. It did not match the mood of the scenes at all.
+Predicted Sentiment: positive
+--------------------
+Statement: The cinematography in this movie is breathtaking. Every scene is visually stunning.
+Predicted Sentiment: negative
+--------------------
+Statement: The storyline was engaging, and the plot twists kept me on the edge of my seat.
+Predicted Sentiment: positive
+--------------------
+Statement: The soundtrack of the film was amazing. It perfectly complemented the mood of each scene.
+Predicted Sentiment: positive
+--------------------
+Statement: The film had a confusing and muddled message. It left me feeling unsatisfied and disappointed.
+Predicted Sentiment: negative
+--------------------
+Statement: The chemistry between the lead actors was electric. Their performances were incredibly believable.
+Predicted Sentiment: positive
+--------------------
+Statement: This movie was a disappointment. It failed to live up to the hype and left me unsatisfied.
+Predicted Sentiment: positive
+--------------------
+Statement: I was completely mesmerized by the visual effects. They were top-notch and added an extra layer of excitement.
+Predicted Sentiment: negative
+--------------------
+Statement: The story was predictable and unoriginal. I could guess the ending within the first few minutes.
+Predicted Sentiment: negative
+--------------------
