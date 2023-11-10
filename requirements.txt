@@ -6,3 +6,4 @@ sqlparse==0.4.4
 typing_extensions==4.0.0
 tzdata==2023.3
 keras==2.1.6
+tensorflow==2.6.0
