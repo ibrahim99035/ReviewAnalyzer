@@ -7,6 +7,70 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{% static 'style.css' %}">
     <title>LSTM Webapp</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #167baa81;
+    }
+      
+    h1 {
+        text-align: center;
+    }
+      
+    .container {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #000000;
+        border-radius: 5px;
+        background-color: white;
+        margin-top: 7rem;
+    }
+      
+    .form-group {
+        margin-bottom: 20px;
+    }
+      
+    .form-group label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+      
+    .form-group input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #000000;
+        border-radius: 5px;
+        width: 90%;
+        margin: auto;
+    }
+      
+    .form-group .result {
+        margin-top: 10px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 2rem;
+    }
+      
+    .form-group .result span {
+        color: rgb(0, 87, 128);
+    }
+    
+    #sumitButton{
+        padding: 10px 20px;
+        background-color: #235997;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+      
+    #sumitButton:hover {
+        background-color: #167baa;
+    }
+    </style>
 </head>
 <body>
     <div class="container">
